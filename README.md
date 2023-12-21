@@ -9,8 +9,9 @@ I also bring a diverse range of transferable skills from being Former Head of Ac
 </p>
 
   <ul>
-    <li>🔭 I’m currently working on continuing to develop my proficiency in languages studied throughout my Le Wagon Web Developer bootcamp. As well as engaging with new languages such as React.</li>
-    <li>💬 Ask me about my previous career and how it can be beneficial my future career in coding.</li>
+    <li>🔭 I’m currently working on continuing to develop my proficiency in languages studied throughout my Le Wagon Web Developer bootcamp.</li>
+    <li>🌱 I’m currently learning React.</li>
+    <li>💬 Ask me about why I have changed to a career in coding and how my past experience will be beneficial.</li>
     <li>⚡ Fun fact: I love being involved in sports. Particularly Rugby and Crossfit where I being part of a community is so important!</li>
   </ul>
 
