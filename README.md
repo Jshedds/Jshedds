@@ -15,13 +15,15 @@ I also bring a diverse range of transferable skills from being Former Head of Ac
     <li>⚡ Fun fact: I love being involved in sports. Particularly Rugby and Crossfit where I being part of a community is so important!</li>
   </ul>
 
-  <h3>Get in touch:</h3>
+  <h3>Get in Touch:</h3>
   <ul>
-  <li><strong>EMAIL: </strong>jsheddan@outlook.com</li>
-  <a href="https://linkedin.com/in/jamie-sheddan">
-    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-  </a>
-    
+    <li><strong>EMAIL: </strong>jsheddan@outlook.com</li>
+    <li><a href="https://linkedin.com/in/jamie-sheddan">
+      <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+      </a>
+    </li>
+  </ul>
+  
   <h3>Languages & Tools:</h3>
   <a href="https://rubyonrails.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40">
