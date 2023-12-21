@@ -17,7 +17,7 @@ I also bring a diverse range of transferable skills from being Former Head of Ac
   <h3>Get in touch:</h3>
   <ul>
   <li>Email: jsheddan@outlook.com</li>
-  <a href="www.linkedin.com/in/jamie-sheddan">
+  <a href="https://linkedin.com/in/jamie-sheddan">
     <img align="center" height="15px" width="15px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
   </a>
     
